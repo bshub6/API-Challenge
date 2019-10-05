@@ -1,0 +1,11 @@
+WeatherPy
+
+Summary
+
+The data was collected during in the month of October which tends to be colder in certain parts of the world. It may or may not had a bearing in the data collected from 500 random cities around the world.
+
+(1) It didn't come as a surprise that the closer to the equator, the weather is warmer. The Southern Hemisphere is warmer than the Northern Hemisphere especially in the summer months. From  the data plotted, there is a strong correlation between the latitude and temperature.
+
+(2) There seems to be no direct correlation between latitude and humidity, and on my plot there was an outlier with one data point being at 300% of humidity near the equator.
+
+(3) There does not seem to be a correlation between cloudiness and latitude. The data points pretty much covered the entire chart. There wasn't a direct link between latitude and windspeed either, although the speed seem to be higher in warm climates.
